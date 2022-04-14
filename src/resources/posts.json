@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "authorId": 1,
+    "text": "Arek's post No. 1"
+  },
+  {
+    "id": 2,
+    "authorId": 1,
+    "text": "Arek's post No. 2"
+  },
+  {
+    "id": 3,
+    "authorId": 1,
+    "text": "Arek's post No. 3"
+  },
+  {
+    "id": 4,
+    "authorId": 2,
+    "text": "Dawid's post No. 4"
+  },
+  {
+    "id": 5,
+    "authorId": 2,
+    "text": "Dawid's post No. 5"
+  },
+  {
+    "id": 6,
+    "authorId": 2,
+    "text": "Dawid's post No. 6"
+  },
+  {
+    "id": 7,
+    "authorId": 3,
+    "text": "Przemek's post No. 7"
+  },
+  {
+    "id": 8,
+    "authorId": 3,
+    "text": "Przemek's post No. 8"
+  },
+  {
+    "id": 9,
+    "authorId": 3,
+    "text": "Przemek's post No. 9"
+  },
+  {
+    "id": 10,
+    "authorId": 4,
+    "text": "Mateusz's post No. 10"
+  }
+]
